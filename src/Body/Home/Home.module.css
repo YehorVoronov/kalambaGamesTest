@@ -1,0 +1,15 @@
+.titleHeader{
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: 10fr 2fr ;
+}
+.inform{
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.title{
+    font-size: 30px;
+}
+
+
+

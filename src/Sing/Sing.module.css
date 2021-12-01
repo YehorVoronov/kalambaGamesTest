@@ -1,0 +1,33 @@
+.allForm{
+
+    padding-top: 150px;
+}
+.allForm a {
+    text-decoration: none;
+    color: green;
+}
+.singText{
+    margin-left: 40%;
+    font-size: 65px;
+    padding-bottom: 10px;
+}
+input{
+    margin-top: 10px;
+    margin-left: 20%;
+    width: 60%;
+    height: 60px;
+}
+.nav{
+    margin-left: 40%;
+}
+button{
+    margin-top:20px ;
+    margin-left: 60%;
+    width: 150px;
+    height: 70px;
+    background-color: darkseagreen;
+    color: white;
+    font-size: 40px;
+    border-radius: 10px;
+    border: none;
+}

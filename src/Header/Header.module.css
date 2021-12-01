@@ -1,0 +1,36 @@
+.header {
+    text-decoration: none;
+    background-color: whitesmoke;
+    width: 100%;
+    /*position: fixed;*/
+    left: 0;
+    top: 0;
+    height: 70px;
+    padding-top: 1%;
+    color: white;
+
+    display: grid;
+    grid-template-columns:7fr 5fr;
+}
+.mainTitle{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 40px;
+}
+.mainTitle a{
+    text-decoration: none;
+    color: darkseagreen;
+}
+.refs{
+    padding-top: 20px;
+    font-size: x-large;
+}
+.refs a{
+    padding-left: 10px;
+text-decoration: none;
+    color: lightslategrey;
+
+}
+.refs a:hover{
+    color: black;
+}
